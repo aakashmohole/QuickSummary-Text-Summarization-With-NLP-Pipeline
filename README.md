@@ -1,2 +1,3 @@
-# Hate-Speach-Classification-With-NLP-Pipeline
-Hate Speach Classification With NLP Pipeline and CICD integration with for deployment
+# QuickSummary-Text-Summarization-With-NLP-Pipeline
+
+ NLP Pipeline and CICD integration with for deployment
